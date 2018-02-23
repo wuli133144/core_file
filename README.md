@@ -1,8 +1,6 @@
-### ¹ØÓÚcode_file ¿âµÄÄ¿µÄ
+### å…³äºŽcode_file åº“çš„ç›®çš„
 
->code_file¿âÖ÷ÒªÓÃÀ´¼ÇÂ¼Ò»Ð©¹«Ë¾¿ª·¢¹ý³ÌÖÐµÄ¼¼ÊõÄÚÈÝ£¬ÎÒ»áÌí¼ÓÒ»Ð©Æ½Ê±µÄ¼¼Êõ·ÖÏí 
-
-
+>code_fileåº“ä¸»è¦ç”¨æ¥è®°å½•ä¸€äº›å…¬å¸å¼€å‘è¿‡ç¨‹ä¸­çš„æŠ€æœ¯å†…å®¹ï¼Œæˆ‘ä¼šæ·»åŠ ä¸€äº›å¹³æ—¶çš„æŠ€æœ¯åˆ†äº« 
 
 
 
@@ -14,9 +12,10 @@
 
 
 
-####MIT License
- > 
-Copyright (c) 2018-2-23 sunlands wuyujie
+
+
+#### MIT License
+>Copyright (c) 2018-2-23 sunlands wuyujie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
