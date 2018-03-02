@@ -1,0 +1,12 @@
+---
+
+- name : cp application
+  copy: src={{from}} dest={{to}} owner=root group=root mode=0755
+
+- name: send application
+  template: src=my.cf.j2 dest=/opt/my.cf owner=root group=root mode=0644
+  notify:
+      - restart service 
+
+- name: translate ok!
+  debug: msg="update files success......"

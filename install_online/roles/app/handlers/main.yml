@@ -1,0 +1,7 @@
+---
+- name: restart service
+  shell:  cd {{to}} && ./targets &
+  
+
+
+
